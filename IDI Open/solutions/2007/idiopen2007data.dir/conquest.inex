@@ -1,0 +1,7 @@
+3
+intelligent:0,cultivated:4,welldressed:2,motorcycleowner:3,rude:8,rich:100
+intelligent&cultivated&welldressed|motorcycleowner&rude|rich
+ab:13,b:17,cab:21
+ab&b|b&cab
+a:14,b:13,c:14,d:11
+a&b&c|d&a&c|a|b&d
